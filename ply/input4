@@ -1,0 +1,6 @@
+var variable1
+var varaible2
+
+while variable1 == 2 {
+    100
+}

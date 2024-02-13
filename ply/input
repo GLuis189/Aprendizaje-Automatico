@@ -1,0 +1,11 @@
+varaible_1 = 100
+
+# Comentario 1
+
+"""
+Comentario
+multi
+linea
+"""
+
+varaible_2 = 200
